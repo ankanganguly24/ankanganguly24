@@ -6,9 +6,8 @@
 
 <p align="left"> <a href="https://twitter.com/ankan__ganguly" target="blank"><img src="https://img.shields.io/twitter/follow/ankan__ganguly?logo=twitter&style=for-the-badge" alt="ankan__ganguly" /></a> </p>
 
-- 🔭 I’m currently working on **Placement management system**
 
-- 🌱 I’m currently learning **Next.js,Three.js**
+- 🌱 I’m currently learning **Next.js,GoLang,Devops**
 
 - 💬 Ask me about **MERN stack**
 
