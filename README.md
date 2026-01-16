@@ -23,13 +23,11 @@ I think in caffeine and solutions not code and problems.
 
 ## GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=ankanganguly24&show_icons=true&count_private=true&theme=null" alt="GitHub İstatistikleri" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankanganguly24&layout=compact&theme=null" alt="En Çok Kullanılan Diller" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ankanganguly24&theme=null" alt="GitHub Streak" />
-
 <img src="https://profile-counter.glitch.me/ankanganguly24/count.svg?" alt="visitors count" />
+
+## GitHub Trophies
+
+<img src="https://github-profile-trophy.vercel.app/?username=ankanganguly24" alt="trophy" />
 
 ## GitHub Activity Graph
 
