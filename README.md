@@ -21,5 +21,4 @@ I think in caffeine and solutions not code and problems.
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/>&nbsp;
 </p>
 
-## GitHub Stats
 
