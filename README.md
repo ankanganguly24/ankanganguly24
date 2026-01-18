@@ -1,5 +1,5 @@
 # Hello 👋, I'm Ankan Ganguly
-### Fullstack engineeer
+### Fullstack developer
 
 Engineer who builds fast.
 I think in caffeine and solutions not code and problems.
