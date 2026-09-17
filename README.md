@@ -1,24 +1,39 @@
-# Hello 👋, I'm Ankan Ganguly
-### Fullstack developer
+# Hi, I'm Ankan 👋
 
-Engineer who builds fast.
-I think in caffeine and solutions not code and problems.
+### Full-stack engineer building useful AI products
 
-## Contact Me
-<p><a href="https://github.com/ankanganguly24" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a> <a href="https://x.com/goankan" target="_blank"><img src="https://img.shields.io/badge/X-%23000000.svg?&style=flat-square&logo=x&logoColor=white" alt="X"></a> <a href="https://ankanportfolio-ebon.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Website-%23FF7139.svg?&style=flat-square&logo=Firefox&logoColor=white" alt="Website"></a> </p>
+I like working where a product idea becomes a real system: a clear user problem, a thoughtful interface, reliable APIs, and software that keeps behaving after the demo.
 
-## Skills
+Currently, I work at [Whisperit](https://github.com/Whisperit), building with Next.js, React Native, Python, and AI. I’m especially interested in agents that do real work inside business workflows—where tools, data, permissions, and human judgment all have to fit together.
 
-<p align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="nextjs" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="express" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/>&nbsp;
-</p>
+## What I care about
 
+- Turning vague problems into simple, useful products
+- Building end-to-end instead of stopping at a prototype
+- Understanding the failure cases, not just the happy path
+- Making AI outputs useful, explainable, and safe to act on
+- Learning quickly, taking ownership, and leaving systems easier to understand
 
+## What I’m building and learning
+
+- **PenguinGraph** — exploring how business agents can become explainable, approval-aware, testable workflows
+- **WhisperAI** — a voice-first personal AI companion
+- **Handwriting Notes** — an offline-first collaborative notes experiment with real-time sync
+- Full-stack applications with TypeScript, Next.js, React Native, Python, PostgreSQL, MongoDB, and Docker
+
+## How I work
+
+I’m not interested in collecting technologies for their own sake. I prefer small experiments, honest trade-offs, readable code, and shipping something that another person can actually use. When I don’t know something, I learn it by building a narrow version and testing where it breaks.
+
+## Looking for
+
+I’m open to working with teams building ambitious products in AI, developer tools, agents, and full-stack systems. I’m looking for a place where I can contribute early, receive direct feedback, and grow into bigger technical ownership.
+
+## Find me
+
+- [Portfolio](https://ankanportfolio-ebon.vercel.app/)
+- [LinkedIn](https://linkedin.com/in/ankanganguly)
+- [X](https://x.com/goankan)
+- [GitHub projects](https://github.com/ankanganguly24?tab=repositories)
+
+> I build to understand, I write to make things clear, and I care about the person who has to use what I ship.
