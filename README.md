@@ -17,8 +17,6 @@ Currently, I work at [Whisperit](https://github.com/Whisperit), building with Ne
 ## What I’m building and learning
 
 - **PenguinGraph** — exploring how business agents can become explainable, approval-aware, testable workflows
-- **WhisperAI** — a voice-first personal AI companion
-- **Handwriting Notes** — an offline-first collaborative notes experiment with real-time sync
 - Full-stack applications with TypeScript, Next.js, React Native, Python, PostgreSQL, MongoDB, and Docker
 
 ## How I work
