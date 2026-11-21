@@ -1,37 +1,46 @@
-# Hi, I'm Ankan 👋
+### Hi, I'm Ankan , senior software engineer 👋
 
-### Full-stack engineer building useful AI products
+I build AI products end-to-end — the interface, the API, and the system
+that keeps working after the demo.
 
-I like working where a product idea becomes a real system: a clear user problem, a thoughtful interface, reliable APIs, and software that keeps behaving after the demo.
+Prev. Full-stack AI Engineer at [Whisperit](https://whisperit.ai) (Swiss
+legaltech): contract extraction and hybrid RAG with FastAPI, LangGraph,
+pgvector. 3x startup. also 2 other startups 
 
-Currently, I work at [Whisperit](https://github.com/Whisperit), building with Next.js, React Native, Python, and AI. I’m especially interested in agents that do real work inside business workflows—where tools, data, permissions, and human judgment all have to fit together.
+---
 
-## What I care about
+**Building now**
 
-- Turning vague problems into simple, useful products
-- Building end-to-end instead of stopping at a prototype
-- Understanding the failure cases, not just the happy path
-- Making AI outputs useful, explainable, and safe to act on
-- Learning quickly, taking ownership, and leaving systems easier to understand
+- **[Pevatron](https://pevatron.si)** — AI answer risk observability.
+  Finds what ChatGPT, Gemini, and Perplexity say wrong about a business,
+  traces the error to its source, and proves the fix changed the answer.
+  Three real audits: NEXIS, Tailscale, Fastlane.
 
-## What I’m building and learning
+---
 
-- **PenguinGraph** — exploring how business agents can become explainable, approval-aware, testable workflows
-- Full-stack applications with TypeScript, Next.js, React Native, Python, PostgreSQL, MongoDB, and Docker
+**Selected engineering**
 
-## How I work
+| What | Number |
+|---|---|
+| Android memory on a consumer device | 420MB → 180MB |
+| Geohash lookup | 680ms → 120ms |
+| Extraction engine | 1,000+ file formats |
+| Eval set | 200 hand-labeled contracts |
+| Frame rate on Snapdragon 680 | 60 FPS sustained |
 
-I’m not interested in collecting technologies for their own sake. I prefer small experiments, honest trade-offs, readable code, and shipping something that another person can actually use. When I don’t know something, I learn it by building a narrow version and testing where it breaks.
+---
 
-## Looking for
+**What I care about**
 
-I’m open to working with teams building ambitious products in AI, developer tools, agents, and full-stack systems. I’m looking for a place where I can contribute early, receive direct feedback, and grow into bigger technical ownership.
+- Systems that survive real use
+- AI outputs that are explainable and safe to act on
+- Finding the failure cases before the happy path
 
-## Find me
+I learn by building a narrow version and testing where it breaks.
 
-- [Portfolio](https://ankanportfolio-ebon.vercel.app/)
-- [LinkedIn](https://linkedin.com/in/ankanganguly)
-- [X](https://x.com/goankan)
-- [GitHub projects](https://github.com/ankanganguly24?tab=repositories)
+---
 
-> I build to understand, I write to make things clear, and I care about the person who has to use what I ship.
+**Open to remote roles** — AI products, dev tools, full-stack, B2B SAAS.
+Available immediately.
+
+ [LinkedIn](https://linkedin.com/in/ankanganguly) · [X](https://x.com/goankan) · [Email](mailto:ankangangu;ygeeks24@gmail.com)
